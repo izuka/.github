@@ -1,2 +1,3 @@
-# .github
+# Hey! 👋
+
 Welcome to Izuka Electronics!
